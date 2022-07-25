@@ -1,3 +1,3 @@
 Connection is done through xampp
-database name: assuredtravel
-user: samir
+database name: ghumante
+name :manjesh silwal
